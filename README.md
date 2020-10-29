@@ -2,6 +2,8 @@
 A dark theme for NYSTHI's VCV Rack modules. 
 
 # Installation
-Rename your res folder in Plugins/NYSTHI/ to res.bak, unzip res-dark.zip and rename to res, move to Plugins/NYSTHI/
+Create folder res_users folder, for example: plugins-v1/NYSTHI/res_users/. 
+Extract the zip to this folder, eg plugins-v1/NYSTHI/res_users/MeefyDark/.
+Load NYSTHI NYSTHIOMETER, right click and choose theme. 
 
 ![Screenshot](https://raw.githubusercontent.com/spectromas/NYSTHI-Dark-Theme/master/nysthi_dark.png)
